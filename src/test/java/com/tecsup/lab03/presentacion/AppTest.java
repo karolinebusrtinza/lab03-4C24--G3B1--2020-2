@@ -1,4 +1,4 @@
-package com.tecsup.lab03.Lab03_4C24_2020_2_G31;
+package com.tecsup.lab03.presentacion;
 
 import static org.junit.Assert.assertTrue;
 
